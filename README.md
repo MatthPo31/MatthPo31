@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salut 👋, je suis Matthieu — Ingénieur Cybersécurité Junior
 
-<!--
-**MatthPo31/MatthPo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Objectif : poste en SOC / blue team.
 
-Here are some ideas to get you started:
+## Compétences
+- Pentesting web (OWASP), exploitation, Burp Suite
+- Réseaux, Nmap, Wireshark
+- Scripting : Python, Powershell, SQL, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets phares
+- **vuln-web-lab** — laboratoire d'app web vulnérable + writeups.
+- **net-scanner** — scanner de réseau / port + rapports.
+
+📫 Contact : matthieu.pohin@gmail.com
+
